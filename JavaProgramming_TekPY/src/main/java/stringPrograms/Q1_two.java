@@ -1,0 +1,22 @@
+package stringPrograms;
+
+/**
+ * Question: Write a java program to reverse a string without using extra variable
+ */
+public class Q1_two {
+	public static void main(String[] args) {
+
+		/**
+		 * Steps: 1. create string var to store string 2. integrate over the string in
+		 * reverse direction 3. concatenate the character to rev variable 4. Print the
+		 * reversed string
+		 */
+		String s = "India";
+
+		for (int i = s.length() - 1; i >= 0; i--) {
+			System.out.print(s.charAt(i));
+
+		}
+		
+	}
+}
