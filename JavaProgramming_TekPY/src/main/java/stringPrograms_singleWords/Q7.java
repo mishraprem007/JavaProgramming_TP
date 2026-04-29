@@ -1,4 +1,4 @@
-package stringPrograms;
+package stringPrograms_singleWords;
 
 /**
  * WAP to find the sum of numbers in a string

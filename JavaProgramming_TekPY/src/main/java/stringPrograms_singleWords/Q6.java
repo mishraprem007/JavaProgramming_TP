@@ -1,4 +1,4 @@
-package stringPrograms;
+package stringPrograms_singleWords;
 
 import java.util.LinkedHashSet;
 

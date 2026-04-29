@@ -1,4 +1,4 @@
-package stringPrograms;
+package stringPrograms_singleWords;
 
 public class Assignment1 {
 

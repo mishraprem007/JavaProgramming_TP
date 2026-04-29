@@ -1,4 +1,4 @@
-package stringPrograms;
+package stringPrograms_singleWords;
 
 /**
  * Question: Write a java program to reverse a string without using extra variable

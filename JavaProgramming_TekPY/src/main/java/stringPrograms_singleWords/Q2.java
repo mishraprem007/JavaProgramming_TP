@@ -1,4 +1,4 @@
-package stringPrograms;
+package stringPrograms_singleWords;
 
 /**
  * write a java program to check if string is a plaindrome
